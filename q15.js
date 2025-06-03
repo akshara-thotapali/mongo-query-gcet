@@ -41,4 +41,4 @@ db.createView("EmpOrders","orders",[
       totalOrderValue: 1
     }
   }
-])
+]);
